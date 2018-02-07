@@ -7,7 +7,7 @@ function happyHolidays(){
 
 function happyHolidaysTo (name) {
   var temp= name
-  console.log(name)
+  console.log(temp)
   console.log('${ temp }')
   return "Happy holidays, ${name}!"
 }
